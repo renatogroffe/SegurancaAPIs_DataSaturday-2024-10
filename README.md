@@ -27,6 +27,8 @@ Deixo aqui meus agradecimentos ao **Dirceu Resende**, ao **Talles Valiatti** e d
 
 ![Renato e Talles palestrando 2](img/apis-02.JPG)
 
+![Banner - Renato e Talles](img/banner-apis.jpg)
+
 ![Programação 1](img/progr-pt1.png)
 
 ![Programação 2](img/progr-pt2.png)
