@@ -3,9 +3,9 @@ Conteúdos sobre Segurança em APIs de apresentação realizada durante a ediç�
 
 ---
 
-Título da apresentação: **IA + Documentação em Bancos de Dados: utilizando GitHub Copilot + Mermaid para gerar diagramas**
+Título da apresentação: **Protegendo os dados de suas APIs REST: ferramentas, boas práticas, cuidados...**
 
-Descritivo da apresentação: *Confira nesta apresentação como tirar proveito da ferramenta Mermaid e do GitHub Copilot na geração de artefatos representando diferentes aspectos dos dados de uma solução: de diagramas de entidade-relacionamento a fluxos e diagramas de sequência. Tudo isso com um mínimo de esforço, valendo-se do poder da Inteligência Artificial e com a possibilidade de até mesmo produzir documentações a partir de engenharia reversa!*
+Descritivo da apresentação: *Confira nesta apresentação como implementar APIs REST mais seguras e com um maior controle na manipulação de dados, combinando para isto soluções como API Gateways, tokens JWT e serviços em nuvem. Conheça ainda cuidados e boas práticas para aumentar a segurança em seus Back-Ends, contribuindo assim para a obtenção de projetos mais confiáveis!*
 
 Data: **26/10/2024 (sábado)**
 
