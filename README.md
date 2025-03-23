@@ -9,7 +9,7 @@ Descritivo da apresentação: *Confira nesta apresentação como implementar API
 
 Data: **26/10/2024 (sábado)**
 
-Tecnologias e tópicos abordados: **GitHub Copilot, Mermaid, Visual Studio Code, GitHub, Documentação de Projetos, SQL Server, UML, .NET, Entity Framework, Azure Data Factory...**
+Tecnologias e tópicos abordados: **Cybersecurity, JWT, Azure API Management, JWE, Microsoft Entra ID, OWASP API Security Top 10, Rate Limit, .NET, ASP.NET Core...**
 
 Número de participantes: **100 pessoas (estimativa)**
 
