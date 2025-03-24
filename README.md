@@ -19,6 +19,8 @@ Links do evento: **[SQLSaturday](https://sqlsaturday.com/2024-10-26-sqlsaturday1
 
 Local: **UniSales - Centro Universitário Salesiano - Avenida Vitória, 950 - Forte São João - Vitória-ES - CEP: 29017-022**
 
+Esta palestra foi realizada em conjunto com meu amigo **Talles Valiatti**.
+
 Deixo aqui meus agradecimentos ao **Dirceu Resende**, ao **Talles Valiatti** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais uma edição do **Data Saturday** em **Vitória**.
 
 ---
